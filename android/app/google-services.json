@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559893743694",
+    "project_id": "ryanawe-d493c",
+    "storage_bucket": "ryanawe-d493c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559893743694:android:748e362e265320efd09b1f",
+        "android_client_info": {
+          "package_name": "com.example.ryanawe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2sypOUPtAHFFey0yJUu3toqPeUPFfsXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
